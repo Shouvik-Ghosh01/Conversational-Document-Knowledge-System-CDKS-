@@ -1,6 +1,6 @@
 # Conversational Document Knowledge System (CDKS)
 
-CDKS is a web application that revolutionizes information retrieval and exploration from PDF documents. It empowers users to ask questions in natural language and receive insightful answers derived from the content of uploaded PDFs, fostering a conversational approach to document understanding.
+CDKS is a web application that revolutionizes information retrieval and exploration from PDF documents. It empowers users to ask questions in natural language and receive insigtful answers derived from the content of uploaded PDFs, fostering a conversational approach to document understanding.
 
 Key Features
 
